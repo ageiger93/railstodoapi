@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+*This API was built during a code along guide found at:
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
+
+Current status:
+I left off after writing the ToDo API tests (spec/requests/todos_spec.rb)
